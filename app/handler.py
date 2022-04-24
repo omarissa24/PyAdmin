@@ -362,7 +362,7 @@ def edit_{0}(modifier_id, act):
 	</ul>
 	<div class ="visit">
 		<p class ="text-center">Created using PyAdmin &hearts;</p>
-		<a href ="https://github.com/housamz/python-mysql-admin-panel-generator" target="_blank" >Visit Project</a>
+		<a href ="https://github.com/omarissa24/PyAdmin" target="_blank" >Visit Project</a>
 	</div>
 </nav><!-- / end sidebar -->"""
 
